@@ -6,7 +6,7 @@
 // @timestamp    1731507453
 // 2024-11-13 22:17:33
 // @license      MIT
-// @homepageURL  https://github.com/sealdice/javascript
+// @homepageURL  https://github.com/Sheyiyuan/breakRepeatForSealdice
 // ==/UserScript==
 
 /**
